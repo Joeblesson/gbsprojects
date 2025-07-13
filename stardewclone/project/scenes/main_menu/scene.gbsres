@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "589ec82f-32e2-4f8b-9090-754677cd3ce9",
+  "_index": 1,
+  "name": "Main Menu",
+  "backgroundId": "2c517527-6556-43ee-b2f0-ed4175215305",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "LOGO",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00168+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_2",
+  "x": 376,
+  "y": 168,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}
